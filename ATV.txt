@@ -1,0 +1,46 @@
+Realizado em Python
+
+votos_x889 = 0
+
+votos_y847 = 0
+
+votos_z515 = 0
+
+votos_brancos = 0
+
+
+
+
+while true: 
+   
+
+print(f'menu votacao:\n1.votos de x889:{voto_x889}\n2.votos de y847:{votos_y847}\n3.votos de z515:{voto_z515}\n4.votos brancos:{votos_brancos.Sair do programa.'})
+
+
+votos = int(input('>'))
+
+
+
+if voto == 889
+  
+          votos_candx +=1
+
+            elif voto == 847
+ 
+               votos_candy +=1
+                
+		elif voto == 515
+
+                    votos_candz +=1
+
+                  	  elif voto == 0
+                 
+       				votos_nulo +=1
+         
+              else :
+                            
+		pass
+  
+                      except :
+  
+                          print("Digite apenas 889, 847, 515, 0")
